@@ -1,0 +1,4 @@
+apigateway\apigateway\ApiGatewayApplication.class
+apigateway\apigateway\GatewayRoutesConfig.class
+apigateway\apigateway\GatewayCorsConfig.class
+apigateway\apigateway\GatewaySecurityConfig.class

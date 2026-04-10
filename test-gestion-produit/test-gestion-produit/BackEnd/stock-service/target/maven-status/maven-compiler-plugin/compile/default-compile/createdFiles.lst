@@ -1,0 +1,6 @@
+stockservice\stockservice\StockServiceApplication.class
+stockservice\stockservice\RabbitMqConfig.class
+stockservice\stockservice\StockCheckResponseEvent.class
+stockservice\stockservice\StockRequestListener.class
+stockservice\stockservice\StockCheckRequestEvent.class
+stockservice\stockservice\StockHealthController.class
